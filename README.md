@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_devika_wagh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/devika-wagh-834041183) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devikawagh1502@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_devika_wagh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](devika-wagh-834041183) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devikawagh1502@gmail.com) 
 
 # 💻 Tech Stack:
 
